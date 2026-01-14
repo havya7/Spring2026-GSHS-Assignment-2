@@ -29,4 +29,4 @@ All test cases are considered passed if the accuracy exceeds a predefined thresh
 
 **Dataset Used:** 
 - Iris Dataset
-- Toy Dataset(sample)
+- Toy Dataset
